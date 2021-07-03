@@ -32,6 +32,8 @@ if y=='1':
             11:'Aysen',
             12:'Magallanes'}
         return switcher.get(x,"region invalida")
+    #esto es una prueba
+    
 
 
 
